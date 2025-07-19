@@ -12,7 +12,7 @@ Reinforcement-Guided Pretraining (RGP) introduces a new alignment paradigm by em
 - Self-consistency
 - Information coherence
 
-These synthetic rewards guide the model toward desirable behavior from the ground up. RGP combines Maximum Likelihood Estimation (MLE) with multi-objective Reinforcement Learning to create LLMs that are self-aligned, explainable, and more scalable than RLHF-based alternatives — eliminating the need for preference data or separate alignment phases.
+These synthetic rewards guide the model toward desirable behavior from the ground up. RGP combines Maximum Likelihood Estimation (MLE) with multi-objective Reinforcement Learning to create LLMs that are self-aligned, explainable, and more scalable than RLHF-based alternatives - eliminating the need for preference data or separate alignment phases.
 
 # Keywords:
 Reinforcement Learning, Language Model Pretraining,
